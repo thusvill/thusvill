@@ -1,7 +1,7 @@
 # Hi, I'm Bios Thusvill
 
 <div align="center">
-<img src="boy.png" width="150">
+<img src="boy.png" width="512">
 </div>
 
 <!-- ### Systems & Graphics Programmer | C++ | Vulkan | C# -->
