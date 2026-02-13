@@ -88,4 +88,4 @@
 - **Email:** thusvill@gmail.com
 - **Location:** Colombo, Sri Lanka 🇱🇰
 
-<img align="right" src="https://komarev.com/ghpvc/?username=thusvill&color=e95c7d&label=Views">
+<img align="right" src="https://komarev.com/ghpvc/?username=thusvill&color=157ded&label=Views">
