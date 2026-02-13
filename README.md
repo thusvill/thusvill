@@ -30,21 +30,6 @@
 
 ## My Projects
 
-### [VectorVertex](https://github.com/thusvill/VectorVertex) [on Development]
-**Tech:** C++, Vulkan API, Mathematics
-- A high-performance game engine built from the ground up using the **Vulkan SDK**.
-- Implemented custom vector/vertex math libraries and rendering pipelines.
-- Focused on memory management and GPU hardware abstraction.
-
-### [LiveWallpaperMacOS](https://github.com/thusvill/LiveWallpaperMacOS)
-**Tech:** Objective-C++, macOS APIs, Swift
-- A system-level utility for macOS that enables dynamic, high-performance live wallpapers.
-- Integrated deeply with **macOS system APIs** and window management.
-- Optimized for low CPU/RAM footprint to ensure battery efficiency.
-
----
-## Other Projects
-
 <table border="0">
   <tr>
     <td width="50%" align="center" valign="top">
@@ -52,12 +37,12 @@
         <img src="https://raw.githubusercontent.com/thusvill/VectorVertex/main/thumbnail.png" width="100%" style="max-width:400px;" alt="VectorVertex">
       </a>
       <br />
-      <b>🎮 VectorVertex</b><br />
+      <b>VectorVertex</b><br />
       <i>C++ & Vulkan Engine</i>
     </td>
     <td width="50%" align="center" valign="top">
       <a href="https://github.com/thusvill/LiveWallpaperMacOS">
-        <img src="https://raw.githubusercontent.com/thusvill/LiveWallpaperMacOS/main/thumbnail.png" width="100%" style="max-width:400px;" alt="LiveWallpaper">
+        <img src="livewall.png" width="100%" style="max-width:400px;" alt="LiveWallpaper">
       </a>
       <br />
       <b>LiveWallpaperMacOS</b><br />
@@ -68,16 +53,16 @@
   <br>
   <tr>
   <td width="50%" align="center" valign="top">
-      <a href="https://github.com/thusvill/LiveWallpaperMacOS">
-        <img src="https://raw.githubusercontent.com/thusvill/LiveWallpaperMacOS/main/thumbnail.png" width="100%" style="max-width:400px;" alt="LiveWallpaper">
+      <a href="https://github.com/thusvill/GlowPlayer">
+        <img src="https://raw.githubusercontent.com/thusvill/LiveWallpaperMacOS/main/thumbnail.png" width="100%" style="max-width:400px;" alt="GlowPlayer">
       </a>
       <br />
       <b>GlowPlayer</b><br />
       <i>Audio Player</i>
     </td>
     <td width="50%" align="center" valign="top">
-      <a href="https://github.com/thusvill/LiveWallpaperMacOS">
-        <img src="https://raw.githubusercontent.com/thusvill/LiveWallpaperMacOS/main/thumbnail.png" width="100%" style="max-width:400px;" alt="LiveWallpaper">
+      <a href="https://github.com/thusvill/YTMusicDownloader">
+        <img src="https://raw.githubusercontent.com/thusvill/LiveWallpaperMacOS/main/thumbnail.png" width="100%" style="max-width:400px;" alt="YTMusicDownloader">
       </a>
       <br />
       <b>YTMusic Downloader</b><br />
@@ -87,8 +72,8 @@
     <br>
     <tr>
     <td width="50%" align="center" valign="top">
-      <a href="https://github.com/thusvill/LiveWallpaperMacOS">
-        <img src="https://raw.githubusercontent.com/thusvill/LiveWallpaperMacOS/main/thumbnail.png" width="100%" style="max-width:400px;" alt="LiveWallpaper">
+      <a href="https://github.com/thusvill/dm-builds">
+        <img src="https://raw.githubusercontent.com/thusvill/LiveWallpaperMacOS/main/thumbnail.png" width="100%" style="max-width:400px;" alt="DarkMission">
       </a>
       <br />
       <b>DarkMission</b><br />
